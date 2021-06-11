@@ -5,6 +5,6 @@
 -->
 
 ### 🔭 I’m currently working on several webstatic projets
-### 🌱 I’m currently learning how to inject integrated pages into a workpress project 😉
-### ⚡ Fun fact: you realy need this part ?
+### 🌱 I’m too currently learning how to inject integrated pages into a workpress project 😉
+### ⚡ Fun fact : you realy need this part ?
 
